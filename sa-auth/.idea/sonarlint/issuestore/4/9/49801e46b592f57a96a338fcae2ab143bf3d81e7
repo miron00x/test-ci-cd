@@ -1,0 +1,11 @@
+
+ squid:UselessImportCheck"~Remove this unused import 'org.springframework.security.oauth2.config.annotation.web.configuration.EnableAuthorizationServer'.(š˜«ó
+Msquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+Ysquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+¡squid:UselessImportCheck"yRemove this unused import 'org.springframework.security.oauth2.config.annotation.web.configuration.EnableResourceServer'.(şò™?8æçìî•.
+€squid:UselessImportCheck"^Remove this unused import 'org.springframework.security.config.core.GrantedAuthorityDefaults'.(Ñ×Ç¶
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(à‹‰¯
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(² ö
+qsquid:UselessImportCheck"ORemove this unused import 'org.springframework.security.core.GrantedAuthority'.(½Á±ÿ

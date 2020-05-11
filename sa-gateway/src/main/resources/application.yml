@@ -1,0 +1,19 @@
+zuul:
+  ignoredServices: '*'
+  host:
+    connect-timeout-millis: 20000
+    socket-timeout-millis: 20000
+
+  routes:
+    auth-service:
+      path: /auth/**
+      serviceId: sa-auth
+      sensitiveHeaders:
+
+    account-service:
+      path: /webapp/**
+      serviceId: sa-webapp
+      sensitiveHeaders:
+
+server:
+  port: 4000

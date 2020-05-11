@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:sa-frontend" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:sa-logic" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:sa-logic" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:sa" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="293cded0-f887-44fc-aba9-b0903849ee8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/auth/config/OAuth2AuthorizationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/auth/config/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/auth/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/auth/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/auth/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/auth/service/CustomDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-webapp/src/main/java/com/sa/web/feign/LogicFeignFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-webapp/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sa-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sa-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sa-frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../sa-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-logic/sa/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sa-logic/sa/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-logic/sa/sentiment_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sa-logic/sa/sentiment_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-webapp/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../sa-webapp/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-webapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sa-webapp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-webapp/src/main/java/com/sa/web/SentimentAnalysisWebApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-webapp/src/main/java/com/sa/web/SentimentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-webapp/src/main/java/com/sa/web/dto/SentenceDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-webapp/src/main/resources/application.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1a4UhWCsk9fC852WIK6jMveiDFw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ehd/october/pib-app/java" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.AuthApplication">
+    <configuration name="AuthApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.auth.AuthApplication" />
+      <module name="auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.auth.AuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AuthApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="293cded0-f887-44fc-aba9-b0903849ee8b" name="Default Changelist" comment="" />
+      <created>1585994478739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585994478739</updated>
+      <workItem from="1587472351279" duration="13281000" />
+      <workItem from="1587652609061" duration="16661000" />
+      <workItem from="1588140435141" duration="14121000" />
+      <workItem from="1588175344975" duration="5304000" />
+      <workItem from="1588672419079" duration="5243000" />
+      <workItem from="1588768500306" duration="1219000" />
+      <workItem from="1588837458512" duration="1228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2613" y="280" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1588153070962">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="280" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588153070962" />
+    <state x="2688" y="241" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1587734737729">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2688" y="241" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1587734737729" />
+    <state width="701" height="723" key="DebuggerActiveHint" timestamp="1588166482789">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="701" height="723" key="DebuggerActiveHint/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588166482789" />
+    <state x="2663" y="280" width="424" height="484" key="FileChooserDialogImpl" timestamp="1588692350697">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="280" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588692350697" />
+    <state width="1874" height="334" key="GridCell.Tab.0.bottom" timestamp="1588699348270">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="334" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588699348270" />
+    <state width="1874" height="334" key="GridCell.Tab.0.center" timestamp="1588699348270">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="334" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588699348270" />
+    <state width="1874" height="334" key="GridCell.Tab.0.left" timestamp="1588699348269">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="334" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588699348269" />
+    <state width="1874" height="334" key="GridCell.Tab.0.right" timestamp="1588699348270">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="334" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588699348270" />
+    <state width="1874" height="334" key="GridCell.Tab.1.bottom" timestamp="1588699533509">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="334" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588699533509" />
+    <state width="1874" height="334" key="GridCell.Tab.1.center" timestamp="1588699533509">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="334" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588699533509" />
+    <state width="1874" height="334" key="GridCell.Tab.1.left" timestamp="1588699533509">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="334" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588699533509" />
+    <state width="1874" height="334" key="GridCell.Tab.1.right" timestamp="1588699533509">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="334" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588699533509" />
+    <state width="1874" height="334" key="GridCell.Tab.2.bottom" timestamp="1588699348157">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="334" key="GridCell.Tab.2.bottom/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588699348157" />
+    <state width="1874" height="334" key="GridCell.Tab.2.center" timestamp="1588699348157">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="334" key="GridCell.Tab.2.center/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588699348157" />
+    <state width="1874" height="334" key="GridCell.Tab.2.left" timestamp="1588699348157">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="334" key="GridCell.Tab.2.left/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588699348157" />
+    <state width="1874" height="334" key="GridCell.Tab.2.right" timestamp="1588699348157">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="334" key="GridCell.Tab.2.right/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588699348157" />
+    <state x="2413" y="180" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1588601094985">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2413" y="180" width="924" height="684" key="Maven.ArtifactSearchDialog/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588601094985" />
+    <state x="2369" y="157" key="SettingsEditor" timestamp="1586008949763">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2369" y="157" key="SettingsEditor/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1586008949763" />
+    <state x="2571" y="133" width="618" height="777" key="find.popup" timestamp="1588600401028">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2571" y="133" width="618" height="777" key="find.popup/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588600401028" />
+    <state x="2312" y="180" width="1372" height="796" key="new project wizard" timestamp="1588692353593">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2312" y="180" width="1372" height="796" key="new project wizard/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588692353593" />
+    <state x="2544" y="168" width="670" height="676" key="search.everywhere.popup" timestamp="1588166158280">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="168" width="670" height="676" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588166158280" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/auth/config/OAuth2AuthorizationConfig.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/auth/config/WebMvcConfig.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/auth$AuthApplication.ic" NAME="AuthApplication Coverage Results" MODIFIED="1586425665750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.auth.*</FILTER>
+    </SUITE>
+  </component>
+</project>

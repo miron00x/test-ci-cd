@@ -1,0 +1,33 @@
+version: "2.0"
+
+services:
+  eureka-service:
+    build: 
+      context: ./eureka-service
+    image: dockertest/eureka-service:local
+    ports:
+    - "8761:8761"
+  sa-frontend:
+    build: 
+      context: ./sa-frontend
+    image: dockertest/sentiment-analysis-frontend:local
+    ports:
+    - "8081:80"
+
+  sa-webapp:
+    build: 
+      context: ./sa-webapp
+    image: dockertest/sentiment-analysis-web-app:local
+    ports:
+    - "8080:8080"
+    environment:
+    - SA_LOGIC_API_URL=http://sa-logic:5000
+    links:
+    - sa-logic
+
+  sa-logic:
+    build:
+      context: ./sa-logic
+    image: dockertest/sentiment-analysis-logic:local
+    ports:
+    - "5000:5000"

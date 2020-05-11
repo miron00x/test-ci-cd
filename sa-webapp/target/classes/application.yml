@@ -1,0 +1,32 @@
+spring:
+  application:
+    name: sa-webapp
+security:
+  oauth2:
+    client:
+      clientId: web-app-service
+      clientSecret: WEB_APP_SERVICE_PASSWORD
+      accessTokenUri: http://localhost:8085/oauth/token
+      grant-type: client_credentials
+      scope: server
+    resource:
+      tokenInfoUri: http://localhost:8085/oauth/check_token
+server:
+  port: 8080
+kafka:
+  server: localhost:9092
+  producer:
+    id: producerId
+  group:
+    id: server.broadcast
+feign:
+  hystrix:
+    enabled: true
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
+    register-with-eureka: true
+    fetch-registry: true
+  instance:
+    preferIpAddress: true

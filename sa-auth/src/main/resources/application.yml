@@ -1,0 +1,18 @@
+spring:
+    application:
+        name: sa-auth
+    data:
+        mongodb:
+            uri: mongodb://localhost:27017/local
+security:
+    oauth2:
+        resource:
+            filter-order: 3
+server:
+    port: 8085
+eureka:
+    client:
+        serviceUrl:
+            defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
+    instance:
+        preferIpAddress: true

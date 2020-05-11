@@ -1,0 +1,7 @@
+
+bsquid:S1192"FDefine a constant instead of duplicating this literal "error" 3 times.(’‹°õ8ĞğÑ­”.
+Ò%squid:RedundantThrowsDeclarationCheck"–Remove the declaration of thrown exception 'org.springframework.security.oauth2.common.exceptions.InvalidTokenException' which is a runtime exception.( ÿñëúÿÿÿÿ8ĞğÑ­”.
+À%squid:RedundantThrowsDeclarationCheck"„Remove the declaration of thrown exception 'org.springframework.security.core.AuthenticationException' which is a runtime exception.( ÿñëúÿÿÿÿ8ĞğÑ­”.
+lsquid:HiddenFieldCheck"@Rename "restTemplate" which hides the field declared at line 32.(é›Ôúÿÿÿÿ8ĞğÑ­”.
+hsquid:HiddenFieldCheck"<Rename "clientId" which hides the field declared at line 30.(ÇŸ§Îÿÿÿÿÿ8ĞğÑ­”.
+„squid:S3252"hUse static access with "org.springframework.security.oauth2.common.OAuth2AccessToken" for "BEARER_TYPE".(çÙëß8–ãÔ­”.

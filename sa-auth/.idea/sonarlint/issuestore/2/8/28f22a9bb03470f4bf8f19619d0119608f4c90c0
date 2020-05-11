@@ -1,0 +1,4 @@
+
+wsquid:S1488"bImmediately return this expression instead of assigning it to the temporary variable "customUser".(Ð¤Ï½
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Â%squid:RedundantThrowsDeclarationCheck"’Remove the declaration of thrown exception 'org.springframework.security.core.userdetails.UsernameNotFoundException' which is a runtime exception.(žÌÃŸ

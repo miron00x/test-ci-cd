@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:sa-frontend" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:sa-logic" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:sa-logic" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:sa" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8697fbc-7ebb-4807-b5e0-3f24b250dfee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../sa-auth/src/main/java/com/example/auth/config/OAuth2AuthorizationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-auth/src/main/java/com/example/auth/config/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-auth/src/main/java/com/example/auth/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-auth/src/main/java/com/example/auth/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-auth/src/main/java/com/example/auth/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sa-auth/src/main/java/com/example/auth/service/CustomDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sa/web/feign/LogicFeignFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sa-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sa-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sa-frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../sa-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-logic/sa/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sa-logic/sa/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sa-logic/sa/sentiment_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sa-logic/sa/sentiment_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sa/web/SentimentAnalysisWebApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sa/web/SentimentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sa/web/dto/SentenceDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZtdcI5kfdyPAy8xNCK4iTq6emy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sa-storage" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.SentimentAnalysisWebApp (1)">
+    <configuration name="SentimentAnalysisWebApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sa.web.SentimentAnalysisWebApp" />
+      <module name="sentiment-analysis-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sa.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SentimentAnalysisWebApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.sa.web.SentimentAnalysisWebApp" />
+      <module name="sentiment-analysis-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.sa.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SentimentAnalysisWebApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sentiment-analysis-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sa.web.SentimentAnalysisWebApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SentimentAnalysisWebApp (1)" />
+        <item itemvalue="Application.SentimentAnalysisWebApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8697fbc-7ebb-4807-b5e0-3f24b250dfee" name="Default Changelist" comment="" />
+      <created>1585662401651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585662401651</updated>
+      <workItem from="1587469458265" duration="698000" />
+      <workItem from="1587470178636" duration="4172000" />
+      <workItem from="1587652612502" duration="2391000" />
+      <workItem from="1588140430121" duration="4010000" />
+      <workItem from="1588175348919" duration="1399000" />
+      <workItem from="1588672402332" duration="1796000" />
+      <workItem from="1588768503584" duration="3597000" />
+      <workItem from="1588837453365" duration="8330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2688" y="229" width="374" height="585" key="#com.intellij.ide.util.MemberChooser" timestamp="1588854376717">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2688" y="229" width="374" height="585" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588854376717" />
+    <state x="2629" y="353" width="481" height="337" key="#com.intellij.tools.ToolEditorDialog" timestamp="1587470106345">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2629" y="353" width="481" height="337" key="#com.intellij.tools.ToolEditorDialog/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1587470106345" />
+    <state x="2663" y="280" width="424" height="484" key="FileChooserDialogImpl" timestamp="1588776570112">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="280" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588776570112" />
+    <state width="1874" height="258" key="GridCell.Tab.0.bottom" timestamp="1588860589720">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="258" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588860589720" />
+    <state width="1874" height="258" key="GridCell.Tab.0.center" timestamp="1588860589720">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="258" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588860589720" />
+    <state width="1874" height="258" key="GridCell.Tab.0.left" timestamp="1588860589720">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="258" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588860589720" />
+    <state width="1874" height="258" key="GridCell.Tab.0.right" timestamp="1588860589720">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="258" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588860589720" />
+    <state width="1874" height="319" key="GridCell.Tab.1.bottom" timestamp="1588156133378">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="319" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588156133378" />
+    <state width="1874" height="319" key="GridCell.Tab.1.center" timestamp="1588156133378">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="319" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588156133378" />
+    <state width="1874" height="319" key="GridCell.Tab.1.left" timestamp="1588156133377">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="319" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588156133377" />
+    <state width="1874" height="319" key="GridCell.Tab.1.right" timestamp="1588156133378">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="319" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588156133378" />
+    <state x="2388" y="312" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1588779958672">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2388" y="312" width="924" height="684" key="Maven.ArtifactSearchDialog/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588779958672" />
+    <state x="2363" y="99" width="1024" height="845" key="SettingsEditor" timestamp="1587470161106">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2363" y="99" width="1024" height="845" key="SettingsEditor/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1587470161106" />
+    <state x="2490" y="135" width="770" height="773" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588156101102">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2490" y="135" width="770" height="773" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1588156101102" />
+    <state x="2544" y="168" width="670" height="676" key="search.everywhere.popup" timestamp="1586012653367">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="168" width="670" height="676" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.992@1920.0.1920.1080" timestamp="1586012653367" />
+  </component>
+</project>
