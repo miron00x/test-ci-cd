@@ -11,7 +11,7 @@ pipeline {
       stage('Build') {
          steps {
             echo '--------------Buid-----------'
-		mvn --version
+		mvn -f /sa-webapp/pom.xml clean package
          }
       }
    }
