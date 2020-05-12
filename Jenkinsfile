@@ -7,5 +7,12 @@ pipeline {
             echo 'Hello World'
          }
       }
+
+      stage('Build') {
+         steps {
+            echo '--------------Buid-----------'
+		mvn --version
+         }
+      }
    }
 }
